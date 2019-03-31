@@ -71,6 +71,28 @@ p {
     margin: 0 auto;
 }
 
+.navigation {
+    margin: 20px 0;
+    display: flex;
+    justify-content: flex-start;
+    align-content: space-between;
+    align-items: flex-end;
+}
+
+.navigation nav {
+    display: flex;
+    /* justify-content: flex-start; */
+
+
+
+}
+
+.navigation nav a{
+    text-decoration: none;
+    margin: 0 65px 0 0;
+    color: black;
+}
+
 .top-content {
     display: flex;
     flex-wrap: wrap;
