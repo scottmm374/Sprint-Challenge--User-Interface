@@ -94,8 +94,9 @@ p {
 /*  About page header */
 
 .header-img {
-    margin-bottom: 20px;
+    margin: 10px 0;
 }
+
 
 .top-content {
     display: flex;
@@ -127,7 +128,7 @@ p {
     justify-content: space-evenly;
 }
 
-/* Color Boxes and middle Content */
+/* Color Boxes  Home Page*/
 
 .middle-content .boxes .box1, .box2,
 .box3, .box4, .box5, .box6, .box7, .box8, 
@@ -182,7 +183,7 @@ p {
     background-color: dodgerblue;
 }
 
-/* Bottom content and Footer content */
+/* Bottom content and Footer content  Home page */
 
 .bottom-content {
     display: flex;
@@ -204,7 +205,7 @@ p {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
-    border-top: 2px dotted black;
+    border-top: 1px dashed black;
     margin: 20px 0;
 }
 
@@ -214,21 +215,24 @@ p {
 
 .main-content div{
     width: 370px;
-    border-bottom: 2px dotted black;
-    padding: 10px 10px 10px 0;
+    border-bottom: 1px dashed black;
+    padding: 10px 10px 15px 0;
 }
 
 .main-content button {
-    border-radius: 5px;
+    border-radius: 7px;
     background: transparent;
     padding: 5px 20px;
     margin-top: 10px;
 }
 
 /* About page message content bottom of page */
+
 .message {
     margin: 30px 10px;
 }
+
+/* Footer Home and About Page */
 
 footer {
     width: 100%;
