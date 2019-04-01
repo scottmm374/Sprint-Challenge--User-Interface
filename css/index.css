@@ -87,9 +87,6 @@ p {
 .navigation nav {
     display: flex;
     /* justify-content: flex-start; */
-
-
-
 }
 
 .navigation nav a{
@@ -151,6 +148,34 @@ p {
 
 .bottom-content .text-container:last-child {
     padding-right: 0;
+}
+
+.main-content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    border-top: 2px dotted black;
+    margin: 20px 0;
+}
+
+.main-content img {
+    margin: 10px 0;
+}
+
+.main-content div{
+    width: 370px;
+    border-bottom: 2px dotted black;
+    padding: 10px 10px 10px 0;
+}
+
+.main-content button {
+    border-radius: 5px;
+    background: transparent;
+    padding: 5px 20px;
+    margin-top: 10px;
+}
+.message {
+    margin: 30px 10px;
 }
 
 footer {
