@@ -34,8 +34,8 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
-    Semantic HTML gives meaning to a webpage, not only to developers but also to the browser as well as SEO. The <h1> Tag is a good example,
-    because it tells developers, SEO and the browser that it is the most impotant <h> tag on the page. Some examples of semantic HTML are, <header>, <footer>, <section>, <p>. 
+    Semantic HTML gives meaning to a webpage, not only to developers but also to the browser as well as SEO. The h1 Tag is a good example,
+    because it tells developers, SEO and the browser that it is a very important h tag on the page. Some examples of semantic HTML are, header, footer, section, and p. 
 
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
